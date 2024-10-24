@@ -14,5 +14,4 @@ I'm a hobbyist based in the netherlands. I like dilly dallying in programming.
 - Programming Languages: C#, C, and i love .NET
 - IDE: Visual studio rocks
 
-
-!(https://c.tenor.com/KO80NCIjQAUAAAAd/tenor.gif)
+![Exciting GIF](https://c.tenor.com/KO80NCIjQAUAAAAd/tenor.gif)
