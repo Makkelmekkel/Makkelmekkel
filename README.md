@@ -15,4 +15,4 @@ I'm a hobbyist based in the netherlands. I like dilly dallying in programming.
 - IDE: Visual studio rocks
 
 
-![Exciting GIF](https://c.tenor.com/KO80NCIjQAUAAAAd/tenor.gif)
+!(https://c.tenor.com/KO80NCIjQAUAAAAd/tenor.gif)
