@@ -3,7 +3,7 @@
 # Hello, I'm Makkel 👋
 
 ## About Me
-I'm a hobbyist based in the netherlands. I like dilly dallying in programming. 
+I'm a hobbyist/student based in the netherlands. I like dilly dallying in programming. 
 
 - 🔭 I’m currently working on Photography.
 - 🌱 I’m currently learning ASP.NET and related backend.
