@@ -7,7 +7,7 @@ I'm a hobbyist, i like dilly dallying in programming.
 - 🔭 I’m currently working on Photography.
 - 🌱 I’m currently learning linux.
 - 💬 Ask me about movies.
-- 📫 How to reach me: Im Probably busy.
+- 📫 How to reach me: Im Probably busy (email me at contactedov@gmail.com).
 
 ## Skills
 - Programming Languages: C#, PHP, Python, JS
